@@ -1,3 +1,3 @@
 def call(){
-  sh 'sudo mvn test'
+  sh 'mvn test'
 }
