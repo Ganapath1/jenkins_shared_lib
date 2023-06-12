@@ -1,3 +1,3 @@
 def call(){
-  sh 'mvn verify -DskipUnitTests'
+  sh 'sudo mvn verify -DskipUnitTests'
 }
